@@ -33,11 +33,9 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 ---
 
 ## 🛠️ Tools Used
-
-- **Power BI Desktop**
-- DAX (Data Analysis Expressions)
-- Data modeling and relationships
-- Custom visualizations and slicers
-
+- Power BI,
+- DAX
+-  CSV
+-  Excel
 ---
 
