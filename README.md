@@ -4,6 +4,12 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![HR Dashboard Preview](Images/1ec31f59-0150-47ad-ad4c-a61187489b8f.png)
+
+---
+
 ## 🎯 Key Objectives
 
 - Understand workforce demographics
