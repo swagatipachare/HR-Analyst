@@ -4,12 +4,6 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 
 ---
 
-## 📁 Project File
-
-- `HR_Analytics_Dashboard.pbix` – The main Power BI report file (open with Power BI Desktop)
-
----
-
 ## 🎯 Key Objectives
 
 - Understand workforce demographics
@@ -41,7 +35,6 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 
 ## 🖼️ Sample Screenshots
 
-*(Optional: Add screenshots here using the following format)*
 
 ```markdown
 ![Employee Overview](images/overview.png)
