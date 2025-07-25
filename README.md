@@ -33,9 +33,3 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 
 ---
 
-## 🖼️ Sample Screenshots
-
-
-```markdown
-![Employee Overview](images/overview.png)
-![Attrition Analysis](images/attrition.png)
