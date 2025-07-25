@@ -6,7 +6,7 @@ This project provides an **interactive HR Analytics Dashboard** built using **Mi
 
 ## 🖼️ Dashboard Preview
 
-![HR Dashboard Preview](Images/Hr Analyst Dashboard.png)
+![HR Dashboard](Images/"Hr Analyst Dashboard.png")
 
 
 ---
